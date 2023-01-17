@@ -30,3 +30,4 @@ for arg in sys.argv[1:]:
             print(arg + " : This is not a fasta file")
     else:
         print(arg + " : This file doesn't exist")
+
